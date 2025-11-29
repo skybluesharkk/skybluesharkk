@@ -2,7 +2,7 @@
 
 ![skybluesharkk's github stats](https://github-readme-stats.vercel.app/api?username=skybluesharkk)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skybluesharkk&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats-nu-ecru-15.vercel.app/api?username=skybluesharkk&&show_icons=true&theme=buefy)
 Hi Welcome, i'm Youngchan 👋
 
 AI Researcher / FrontEnd Engineer
