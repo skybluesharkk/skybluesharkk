@@ -10,6 +10,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student at Pusan National University
+- 🎓 Completed Kakao Tech Campus 3rd - Frontend Developer Course
 - 💡 Working on Deep Reinforcement Learning
 
 <br>
@@ -43,10 +44,8 @@
 <br>
 
 ## 🏆 Current Focus
-- 🤖 Deep Reinforcement Learning with Behavioral Cloning
-- 🎮 Unity-based RL Simulation Environments
-- 📊 Real-time Dashboard Development
-- 🎯 Graduate School Preparation (AI/ML)
+- 학습 속도와 성능 향상을 위한 DQN 알고리즘 개선 연구
+- 심리상담 챗봇을 활용한 운동 건강 관리 서비스, 마음핏 (FE 파트)
 
 <br>
 
